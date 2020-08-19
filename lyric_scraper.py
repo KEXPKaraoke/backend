@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 class LyricScraper: 
-sma    URL = 'https://lyrics.fandom.com/wiki/Bob_Dylan:The_Times_They_Are_A-Changin\''
+    URL = 'https://lyrics.fandom.com/wiki/Bob_Dylan:The_Times_They_Are_A-Changin\''
 
 
 
